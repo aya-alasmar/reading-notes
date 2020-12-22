@@ -11,6 +11,6 @@
 
 ### The Content :
 
-Number |Name Of Read | Link
+No.Reads | Title  | Link
 -------|-------------|---------
 1 | Learning Markdown | [open the summary](https://aya-alasmar.github.io/reading-notes/LearningMarkdown.md)
