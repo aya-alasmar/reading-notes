@@ -1,17 +1,17 @@
 #### HTML:
-     the create the structure of the pages and determine the content you want.
+    ###### the create the structure of the pages and determine the content you want.
 
 #### Css:
-     to add style of pages and content that written using HTML ,also you can use the same style of theme to the all pages.
+     ###### to add style of pages and content that written using HTML ,also you can use the same style of theme to the all pages.
 
 #### JavaScript:
-     to add a functionality to the website , you can write the code  and also reuse the code on several l pages (making the site faster to load and easier to maintain) , JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML
+     ###### to add a functionality to the website , you can write the code  and also reuse the code on several l pages (making the site faster to load and easier to maintain) , JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML
 
 ##### How to use object and method :
 `Document.write(‘Good afternoon’); `
-     1 **The document object** represents the entire web page , the document has a multiple methods and props that called [ members of that object]
-     2 **Dot** : members operator allow us to access to the members of that object by enter the name of the member you want to access it .
-     3 **Write `(‘ ‘)`** : `document(object) has a write (method/ member) that’s allow you to write anything inside ‘ ‘ ( that called a parameters) and then will be displayed in web page.`
+     * **The document object** represents the entire web page , the document has a multiple methods and props that called [ members of that object]
+     * **Dot** : members operator allow us to access to the members of that object by enter the name of the member you want to access it .
+     * **Write `(‘ ‘)`** : `document(object) has a write (method/ member) that’s allow you to write anything inside ‘ ‘ ( that called a parameters) and then will be displayed in web page.`
 
 * JavaScript file is a same with HTML file or CSS file but with .js extension, when you need to use the js file you should add `<script src=”jsName.js”> </script>.`
 * A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
