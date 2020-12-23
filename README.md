@@ -14,3 +14,4 @@
 No.Reads | Title  | Link
 -------|-------------|---------
 1 | Learning Markdown | [open the summary](https://aya-alasmar.github.io/reading-notes/LearningMarkdown.md)
+2 | Dynamic web pages with JavaScript | [open the summary](https://aya-alasmar.github.io/reading-notes/read6a.md)
