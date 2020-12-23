@@ -4,25 +4,25 @@
 * Text editor is the most important thing to build the web site.
 * Feature that effect to choose your text editor :
 
-1 code completion ( the great feature, because that allow you to write a one letter of word and then will present the suggestion word you maybe want , could avoid the syntax error and decrease it)
-2 syntax highlighting (g is a feature that takes the text you type , add some color to your code text editor , . This makes it so much easier when you’re looking for an error and you can’t find it
-3 a nice variety of themes (to reduce eye strain and fatigue) , 
-4 the ability to choose from a healthy selection of extensions available when you need them.
+     * _code completion_ ( the great feature, because that allow you to write a one letter of word and then will present the suggestion word you maybe want , could avoid the syntax error and decrease it)
+     * syntax highlighting (g is a feature that takes the text you type , add some color to your code text editor , . This makes it so much easier when you’re looking for an error and you can’t find it
+     * a nice variety of themes (to reduce eye strain and fatigue) , 
+     * the ability to choose from a healthy selection of extensions available when you need them.
 
 ##### Some of most popular text editors:
-1 **NotePad++** : is a free text editor for Windows Computers only , It has syntax highlighting and code completion.
-2 **TextWrangler/BB Edit** : TextWrangler is for Mac computers only .
-3 **Visual Studio Code** : free editor made by floks at microsoft and availabe for windows , mac , linux computers.
+* **NotePad++** : is a free text editor for Windows Computers only , It has syntax highlighting and code completion.
+* **TextWrangler/BB Edit** : TextWrangler is for Mac computers only .
+* **Visual Studio Code** : free editor made by floks at microsoft and availabe for windows , mac , linux computers.
      ***Feature*** 
          * syntax highlighting.
          * themes.
          * extensions.
          * code completion.
-4 **Atom** : free text editor , available for windows, mac,linux computers.
+* **Atom** : free text editor , available for windows, mac,linux computers.
 
-5 **Breakets** : free text editor , available  for windows, mac,linux computers. made in adobe , **only** support HTML CSS, JavaScript , other languages you can added through extensions , including **live preview** .
+*  **Breakets** : free text editor , available  for windows, mac,linux computers. made in adobe , **only** support HTML CSS, JavaScript , other languages you can added through extensions , including **live preview** .
 
-6 **Sublime Text 3** : is a permium software .
+* **Sublime Text 3** : is a permium software .
      **featrures**:
          * syntax highlighting.
          * themes.
