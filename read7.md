@@ -1,4 +1,5 @@
-##### Programming with JavaScript 
+#### Programming with JavaScript 
+##### Intro + Scripts
 ###### why we use JAvaScript :
 * allows you to **ACCESS** content .
 * allows you to **MODIFY** content .
@@ -35,6 +36,7 @@
    2. **Syntax**: How you put those words together to create instructions computers can follow.
 
 * what might have gone wrong - programmers call **debugging.**
+* Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
 
 ###### What happens when you entered your name inside imput feild and press to btn (ok)?
 1. The script is triggered when the button is clicked.
@@ -43,4 +45,33 @@
 4. If the user has not entered anything, a message will appear telling them to enter a name.
 
 
+##### Expressions + Operators:
+###### EXPRESSIONS :
+        * there are two types of expressions:
+            1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE ` var name="aya" `
+            2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE ` var area =5*2 `. the value that stored in area var is 10 .
 
+###### OPERATORS :
+   *  ASSIGNMENT OPERATORS `name= "aya" ; ` here we assgin the value to the variable.
+   *  ARITHMETIC OPERATORS ` area = 3 * 2; `   
+   *  STRING OPERATORS ` fullName ='aya'+'alasmar' ;` Also MIXING NUMBERS AND STRINGS equal STRING ` '5' + 5 = 55 ` , the result '55' is string.
+   *  COMPARISON OPERATORS `buy = 3 > 5;`
+   *  LOGICAL OPERATORS ` buy= (5 > 3) && (2 < 4);`
+
+###### Mathematical operators in JavaScript:
+![mathematical operators img](js.png) 
+
+* **ORDER OF EXECUTION :**
+     1. parentheses.
+     2. Multiplication and division .
+     3. addition or subtraction.
+* Arrays are special types of variables that store more than one piece of related information.
+
+##### Functions :
+   * **functions and methods** :function indicate to set of statements that written for acheive specific gaol.
+   * **OBJECTS** :
+
+
+        
+     
+    
