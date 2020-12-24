@@ -10,7 +10,7 @@
         * **<=** less than or equal
         * **>=** greater than or equal
 
-    3. logical operators :
+   2. logical operators :
         * **|| called OR**  return True if we have at least one side is True ` T || T` ,` F || T`,` T || F` , and return false if the both sides are false ` F || F`.
         * **&& called AND**  return True if the both sides are True ` T && T`, and return false if we have at least one F ` F && T`,` T && F` ,` F && F`.
         * **! called NOT** return true if the value False `!False` , return false if the value true `!True` .
