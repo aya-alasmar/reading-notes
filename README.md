@@ -17,3 +17,5 @@ No.Reads | Title  | Link
 2 | The Coder's Computer |[open the summary](https://aya-alasmar.github.io/reading-notes/read2)
 6a | Dynamic web pages with JavaScript | [open the summary](https://aya-alasmar.github.io/reading-notes/read6a)
 6b | Computer Architecture and Logic | [open the summary](https://aya-alasmar.github.io/reading-notes/read6b)
+7 | Programming with JavaScript | [open the summary](https://aya-alasmar.github.io/reading-notes/read7)
+8 | Operators and Loops | [open the summary](https://aya-alasmar.github.io/reading-notes/read8)
