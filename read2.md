@@ -34,3 +34,29 @@
  * **IDEs** :integrated develpment environment , suite of different software all coming together  , IDEs is a text editor , file manager , compiler , debugger.
 
 
+#### The Command Line & Basic Navigation! 
+**A command line or terminal** is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+* **ls** command : contents of our current directory. 
+      ![ls img](ls.png)
+      this image means that in folder 102-code we have 2 folders (reading-notes , lab4)
+* **pwd** stand for *Print Working Directory* , tells you what your current or present working directory is.
+* **ls -l** contents of our current directory with more details about each item .(option)
+* **ls /etc** to list that directories contents not to list our current directory. (argument)
+* **ls -l/etc** will see a longer listing of files and directories.
+* **shell** :his is a part of the operating system that defines how the terminal will behave and looks after runnin(or executing) commands for you. There are various shells available but the most common one is called bash which stands for Bourne again shell. This tutorial will assume you are using bash as your shell.
+* `~ `(tilde) This is a shortcut for your home directory.
+* `.` (dot) - This is a reference to your current directory.
+* `..` (dotdot)- This is a reference to the parent directory.
+![command img](command.png)
+* **echo** command :used to display messages , use `echo $shell ` to know which shell you have.
+
+##### paths :
+* A **path** is a means to get to a particular file or directory on the system. 
+**Absolute and Relative Paths** :
+***Relative path*** A file or directory location relative to where we currently are in the file system.
+***Absolute path*** A file or directory location in relation to the root of the file system.
+ 
+
+
+
+
