@@ -47,7 +47,7 @@
 * `~ `(tilde) This is a shortcut for your home directory.
 * `.` (dot) - This is a reference to your current directory.
 * `..` (dotdot)- This is a reference to the parent directory.
-![command img](command.png)
+![command img](command.PNG)
 * **echo** command :used to display messages , use `echo $shell ` to know which shell you have.
 
 ##### paths :
