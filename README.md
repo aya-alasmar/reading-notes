@@ -8,11 +8,13 @@
 
 ### Table of Content :
 
-No.Reads | Title  | Link
+Reads No | Title  | Link
 -------|-------------|---------
 1 | Learning Markdown | [open the summary](https://aya-alasmar.github.io/reading-notes/LearningMarkdown)
 lab 0b | Growth Mindset | [open the summary](https://aya-alasmar.github.io/reading-notes/mindset)
 2 | The Coder's Computer |[open the summary](https://aya-alasmar.github.io/reading-notes/read2)
+3 | Revisions and the Cloud |[open the summary](https://aya-alasmar.github.io/reading-notes/read3)
+4 | Structure web pages with HTML|[open the summary](https://aya-alasmar.github.io/reading-notes/read4)
 6a | Dynamic web pages with JavaScript | [open the summary](https://aya-alasmar.github.io/reading-notes/read6a)
 6b | Computer Architecture and Logic | [open the summary](https://aya-alasmar.github.io/reading-notes/read6b)
 7 | Programming with JavaScript | [open the summary](https://aya-alasmar.github.io/reading-notes/read7)

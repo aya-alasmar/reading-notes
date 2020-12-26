@@ -52,7 +52,6 @@
 
 ##### paths :
 * A **path** is a means to get to a particular file or directory on the system. 
-**Absolute and Relative Paths** :
 ***Relative path*** A file or directory location relative to where we currently are in the file system.
 ***Absolute path*** A file or directory location in relation to the root of the file system.
  
