@@ -21,13 +21,13 @@ of document being linked to, The value should be text/css ,`rel` This specifies 
 #### chapter 11 :
 ##### Color: 
 * **Every color on a computer screen is created by mixing amounts of red, green, and blue this calles (RGB)**.
-* We used color with differnt ways:
+* We used color with different ways:
      1. RGB ` color : rgb(0-255,0-255,0-255)` 
      2. Hex codes `color : #ee3e80`
      3. Color names `color : red;`
 
 * We can choose the background or foreground color using this ways .
-* each element have a backgoung color value .
+* each element have a background color value .
 * When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
      * **low constract** lower contrast between background and foreground colors.
      * **meduim constract** For long spans of text, reducing the contrast a little bit improves readability.
