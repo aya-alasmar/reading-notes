@@ -73,8 +73,7 @@
    * every function contain **NAME** should describe the task it is performing. when you ask it to perform its task, it is known as ***calling*** the function.
    * Some functions need to provided with information in order to achieve a given task. this information called ***parameters***
    * When you write a function and you expect it to provide you with an answer, the response is known as a ***return value***.
-   * 
-  
+   
 
 
         
