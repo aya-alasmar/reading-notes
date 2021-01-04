@@ -7,12 +7,12 @@
 
     Name | tag | description
     -----|-----|-----------
-    **Heading** |`<h1>..</h1> ,<h2> ...</h2> ,<h3>..</h3>,<h4>...</h4>,<h5>..</h5>,<h6>...</h6> ` |we have a 6 levels of heading , the biggest is h1 used for main headings, and smallest h6. ![heading levels](heading.png)
+    **Heading** |`<h1>..</h1> ,<h2> ...</h2> ,<h3>..</h3>,<h4>...</h4>,<h5>..</h5>,<h6>...</h6> ` |we have a 6 levels of heading , the biggest is h1 used for main headings, and smallest h6. ![heading levels](https://github.com/aya-alasmar/reading-notes/blob/main/heading.PNG?raw=true)
     **Paragraph** | `<p>  ...content... </p>` |to create a paragraph.
     **Bold** | `<b> ... content..</b>` | make characters appear bold.
     **Italic** | `<i> .. content .. </i>` | make characters appear italic.
     **Superscript** |`<sup> ..content.. </sup>` |used to contain characters that should be superscript 
-    **Subscript** | `<sub> ..content..</sub>` | contain characters that should be subscript. ![Superscript & Subscript](sub_sup.png)
+    **Subscript** | `<sub> ..content..</sub>` | contain characters that should be subscript. ![Superscript & Subscript](https://github.com/aya-alasmar/reading-notes/blob/main/sub_sup.PNG?raw=true)
     **white space** | `&nbsp;`| when you write more than 2 white space the browser will show only one white space ,if you need to big white space `&nbsp;` each time you write this word will show in browser as white space.
     **Line Breaks** | `<br />` or `<br>` | to start new line or new paragraph .
     **Horizontal Rules** |`<hr />` or `<hr>` | to paint a Horizontal line.
@@ -56,7 +56,7 @@ of document being linked to, The value should be text/css ,`rel` This specifies 
      2. id name .
      3. class name.
 
-![selectors types](selector.png)
+![selectors types](https://github.com/aya-alasmar/reading-notes/blob/main/selector.PNG?raw=true)
 
 
 ### JavaScript Book! 
