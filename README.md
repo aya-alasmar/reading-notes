@@ -27,7 +27,7 @@ lab 0b | Growth Mindset | [open the summary](https://aya-alasmar.github.io/readi
 Reads No | Title  | Link
 -------|-------------|---------
 1 |Introductory HTML and JavaScript | [open the summary](https://aya-alasmar.github.io/reading-notes/class-01)
-2 |     |[open the summary](https://aya-alasmar.github.io/reading-notes/)
+2 | Basics of HTML, CSS & JS |[open the summary](https://aya-alasmar.github.io/reading-notes/class-02)
 3 |     |[open the summary](https://aya-alasmar.github.io/reading-notes/)
 4 | |[open the summary](https://aya-alasmar.github.io/reading-notes/)
 5 |      |[open the summary](https://aya-alasmar.github.io/reading-notes/)
