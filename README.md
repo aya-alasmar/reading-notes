@@ -30,7 +30,7 @@ Reads No | Title  | Link
 2 | Basics of HTML, CSS & JS |[open the summary](https://aya-alasmar.github.io/reading-notes/class-02)
 3 |HTML Lists, Control Flow with JS, and the CSS Box Model|[open the summary](https://aya-alasmar.github.io/reading-notes/class-03)
 4 |HTML Links, JS Functions, and Intro to CSS Layout|[open the summary](https://aya-alasmar.github.io/reading-notes/class-04)
-5 |      |[open the summary](https://aya-alasmar.github.io/reading-notes/)
+5 | Images, Color, Text|[open the summary](https://aya-alasmar.github.io/reading-notes/class-05)
 6 |  | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 7 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 8 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
