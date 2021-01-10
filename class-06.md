@@ -33,7 +33,7 @@
 
 * **STEP 1: ACCESS THE ELEMENTS**
      * SELECT AN INDIVIDUAL ELEMENT NODE : 
-         1. `get El ement Byld ()` Uses the value of an element's id attribute (which should be unique within the page).
+         1. `getElement Byld ()` Uses the value of an element's id attribute (which should be unique within the page).
          2. `querySelector()` Uses a CSS selector, and returns the first matching element.
     * SELECT MULTIPLE ELEMENTS (NODELISTS):
          1. `getElementsByClassName()` Selects all elements that have a specific value for their class attribute.
@@ -45,5 +45,14 @@
          3. `firstChild / lastChild` Select the first or last child of the current element.
 
 * **STEP 2: WORK WITH THOSE ELEMENTS**
-     * ACCESS/ UPDATE TEXT NODES :The text inside any element is stored inside a text node. To access the text node above: Select the element 2. Use the fi rstChild property to get the text node 3. Use the text node's only property (nodeValue) to get the text from the element
-     * `nodeValue`  This property lets you access or update contents of a text node.
+     * ACCESS/ UPDATE TEXT NODES :
+         * `nodeValue`  This property lets you access or update contents of a text node.
+    * WORK WITH HTML CONTENT : 
+         1. `innerHTML` One property allows access to child elements and text content:
+         2. `textContent`  just the text content: .
+         3.  `create Element() , createTextNode() ,appendChild () / removeChild ()`Several methods let you create new nodes, add nodes to a tree, and remove nodes from a tree.
+    * ACCESS OR UPDATE ATTRIBUTE VALUES :
+         1. `hasAttribute()` checks if an attribute exists.
+         2. `getAttribute()` gets its value.
+         3. `setAttribute()`updates the value.
+         4. ` removeAttribute()` removes an attribute.
