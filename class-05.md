@@ -87,5 +87,8 @@
 ###### Size of Type
 * font-size :The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font. The most common are:
      1. **pixels** :Pixels are commonly used because they allow web designers very precise control over how much space their text takes up. The number of pixels is followed by the letters px.
-     2. **percentages** The default size of text in browsers is 16px. So a size of 75% would be the equivalent of 12px, and 200% would be 32px. If you create a rule to make all text inside the `<body>` element to be 75% of the default size (to make it 12px), and then specify another rule that indicates the content of an element inside the `<body>` element should be 75% size, it will be 9px (75% of the 12px font size).
+     2. **percentages** The default size of text in browsers is 16px. So a size of 75% would be the equivalent of 12px, and 200% would be 32px.
      3. **ems** An em is equivalent to the width of a letter m.
+
+###### Units of Type Size
+![Units of Type Size](size.png)

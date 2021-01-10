@@ -31,7 +31,7 @@ Reads No | Title  | Link
 3 |HTML Lists, Control Flow with JS, and the CSS Box Model|[open the summary](https://aya-alasmar.github.io/reading-notes/class-03)
 4 |HTML Links, JS Functions, and Intro to CSS Layout|[open the summary](https://aya-alasmar.github.io/reading-notes/class-04)
 5 | Images, Color, Text|[open the summary](https://aya-alasmar.github.io/reading-notes/class-05)
-6 |  | [open the summary](https://aya-alasmar.github.io/reading-notes/)
+6 |Problem Domain, Objects, and the DOM| [open the summary](https://aya-alasmar.github.io/reading-notes/class-06)
 7 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 8 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 9 |  | [open the summary](https://aya-alasmar.github.io/reading-notes/)
