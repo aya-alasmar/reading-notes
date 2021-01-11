@@ -33,7 +33,7 @@ Reads No | Title  | Link
 5 | Images, Color, Text|[open the summary](https://aya-alasmar.github.io/reading-notes/class-05)
 6 |Problem Domain, Objects, and the DOM| [open the summary](https://aya-alasmar.github.io/reading-notes/class-06)
 7 | Object-Oriented Programming, HTML Tables | [open the summary](https://aya-alasmar.github.io/reading-notes/class-07)
-8 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
+8 | CSS Layout | [open the summary](https://aya-alasmar.github.io/reading-notes/class-08)
 9 |  | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 10 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 11 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)

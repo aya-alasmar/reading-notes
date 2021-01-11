@@ -78,33 +78,30 @@ of. For example, there is an object that deals only with dates and times.
 
 
 ###### GLOBAL OBJECTS: MATH OBJECT
-Method | DESCRIPTION
--------|------
-Math.PI | Returns pi (approximately 3.14159265359)
-Math.round() | Rounds number to the nearest integer
-Math.sqrt(n)| Returns square root of positive number, e.g., Math. sqrt (9) returns 3
-Math.cei1() |Rounds number up to the nearest integer
-Math.floor() | Rounds number down to the nearest integer
-Math.random() | Generates a random number between 0 (inclusive) and 1 (not inclusive)
+
+* **Math.PI** : Returns pi (approximately 3.14159265359)
+* **Math.round()** : Rounds number to the nearest integer
+* **Math.sqrt(n)** : Returns square root of positive number, e.g., Math. sqrt (9) returns 3
+* **Math.cei1()** : Rounds number up to the nearest integer
+* **Math.floor()** : Rounds number down to the nearest integer
+* **Math.random()** :Generates a random number between 0 (inclusive) and 1 (not inclusive)
 
 ###### GLOBAL OBJECTS: DATE OBJECT (AND TIME)
 
-METHOD | DESCRIPTION
--------|--------
-getDate() setDate() |Returns I sets the day of the month (1-31).
 
-getDay()  |Returns the day of the week (0-6).
-getFulYear() setFullYear() | Returns I sets the year (4 digits)
-getHours() setHours() |Returns I sets the hour (0-23)
-getMi11iseconds() setMi11iseconds() |Returns I sets the milliseconds (0-999)
-getMinutes() setMinutes() |Returns I sets the minutes (0-59)
-getMonth()) setMonth() | Returns/ sets the month (0-11)
-getSeconds() setSeconds() | Returns I sets the seconds (0-59) Number of milliseconds since January 1, 1970,
-getTime() setTime() |00:00:00 UTC (Coordinated Universal Time)
-getTimezoneOffset () | Returns time zone offset in mins for locale
-toDateString() |Returns "date" as a human-readable string
-toTimeString() |Returns "time" as a human-readable string
-to String() | Returns a string representing the specified date
+* **getDate() setDate()** :Returns I sets the day of the month (1-31).
+* **getDay()**  :Returns the day of the week (0-6).
+* **getFulYear() setFullYear()** :Returns I sets the year (4 digits).
+* **getHours() setHours()** :Returns I sets the hour (0-23).
+* **getMi11iseconds() setMi11iseconds()** :Returns I sets the milliseconds (0-999).
+* **getMinutes() setMinutes()** :Returns I sets the minutes (0-59).
+* **getMonth()) setMonth()** : Returns/ sets the month (0-11).
+* **getSeconds() setSeconds()** : Returns I sets the seconds (0-59) Number of milliseconds since January 1, 1970.
+* **getTime() setTime()** :00:00:00 UTC (Coordinated Universal Time).
+* **getTimezoneOffset ()** : Returns time zone offset in mins for locale.
+* **toDateString()** :Returns "date" as a human-readable string.
+* **toTimeString()** :Returns "time" as a human-readable string.
+* **toString()** : Returns a string representing the specified date.
 
 
 * Functions allow you to group a set of related statements together that represent a single task.
