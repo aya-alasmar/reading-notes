@@ -88,10 +88,12 @@ Math.floor() | Rounds number down to the nearest integer
 Math.random() | Generates a random number between 0 (inclusive) and 1 (not inclusive)
 
 ###### GLOBAL OBJECTS: DATE OBJECT (AND TIME)
+
 METHOD | DESCRIPTION
---------|--------
-getDate() setDate() |Returns I sets the day of the month (1-31)
-getDay()  |Returns the day of the week (0-6)
+-------|--------
+getDate() setDate() |Returns I sets the day of the month (1-31).
+
+getDay()  |Returns the day of the week (0-6).
 getFulYear() setFullYear() | Returns I sets the year (4 digits)
 getHours() setHours() |Returns I sets the hour (0-23)
 getMi11iseconds() setMi11iseconds() |Returns I sets the milliseconds (0-999)
