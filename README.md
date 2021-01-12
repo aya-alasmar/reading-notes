@@ -34,7 +34,7 @@ Reads No | Title  | Link
 6 |Problem Domain, Objects, and the DOM| [open the summary](https://aya-alasmar.github.io/reading-notes/class-06)
 7 | Object-Oriented Programming, HTML Tables | [open the summary](https://aya-alasmar.github.io/reading-notes/class-07)
 8 | CSS Layout | [open the summary](https://aya-alasmar.github.io/reading-notes/class-08)
-9 |  | [open the summary](https://aya-alasmar.github.io/reading-notes/)
+9 | Forms and JS Events| [open the summary](https://aya-alasmar.github.io/reading-notes/class-09)
 10 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 11 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 12 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
