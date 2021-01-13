@@ -35,7 +35,7 @@ Reads No | Title  | Link
 7 | Object-Oriented Programming, HTML Tables | [open the summary](https://aya-alasmar.github.io/reading-notes/class-07)
 8 | CSS Layout | [open the summary](https://aya-alasmar.github.io/reading-notes/class-08)
 9 | Forms and JS Events| [open the summary](https://aya-alasmar.github.io/reading-notes/class-09)
-10 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
+10 | Debugging | [open the summary](https://aya-alasmar.github.io/reading-notes/class-10)
 11 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 12 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 13 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
