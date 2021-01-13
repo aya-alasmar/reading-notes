@@ -40,6 +40,9 @@ lineNumber | Line number of error
 
 
 * There are seven types of built-in error objects in JavaScript. You'll see them on the next two pages:
+
+
+
 OBJECT | DESCRIPTION
 -------|-----------
 Error | Generic error - the other errors are all based upon this error
@@ -78,13 +81,13 @@ EvalError |eval () function used incorrectly
 
 ###### HANDLING EXCEPTIONS
 
-1. `TRY` First, you specify the code that you t hink might throw an exception within the try block.If an  exception occurs in this section of code, control is automatically passed to the corresponding catch block. The try clause must be used in this type of error handling code, and it should always have either a catch, fi na 1 ly, or both.If you use a continue, break, or return keyword inside a try, it will go to the finally option.
+1. `TRY` First, you specify the code that you t hink might throw an exception within the try block.If an  exception occurs in this section of code, control is automatically passed to the corresponding catch block. The try clause must be used in this type of error handling code, and it should always have either a catch, finally, or both.If you use a continue, break, or return keyword inside a try, it will go to the finally option.
 2. `CATCH` If the try code block throws an exception, catch steps in with an alternative set of code. It has one parameter: the error object. Although it is optional, you are not handling the error if you do not catch an error.
 The ability to catch an error can be very helpful if there is an issue on a live website. It lets you tell users that
 something has gone wrong (rather than not informing them why the site stopped working).
 3. `FINALLY` The contents of the finally code block will run either way - whether the try block succeeded or failed.
-It even runs if a return keyword is used in the try or catch block. It is sometimes used to clean up after the previous two clauses. These methods are similar to the .done(), . fail() , and . a 1 ways() methods in jQuery.
-You can nest checks inside each other (place another t ry inside a catch), but be aware that it can affect performance of a script.
+It even runs if a return keyword is used in the try or catch block. It is sometimes used to clean up after the previous two clauses. These methods are similar to the .done(), .fail() , and .a1ways() methods in jQuery.
+You can nest checks inside each other (place another try inside a catch), but be aware that it can affect performance of a script.
 
 
 
