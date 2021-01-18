@@ -38,6 +38,6 @@ Reads No | Title  | Link
 10 | Debugging | [open the summary](https://aya-alasmar.github.io/reading-notes/class-10)
 11 | Audio, Video, Images | [open the summary](https://aya-alasmar.github.io/reading-notes/class-11)
 12 | Chart.js, Canvas| [open the summary](https://aya-alasmar.github.io/reading-notes/class-12)
-13 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
+13 |  Local Storage | [open the summary](https://aya-alasmar.github.io/reading-notes/class-13)
 14 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 15 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
