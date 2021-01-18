@@ -37,7 +37,7 @@ Reads No | Title  | Link
 9 | Forms and JS Events| [open the summary](https://aya-alasmar.github.io/reading-notes/class-09)
 10 | Debugging | [open the summary](https://aya-alasmar.github.io/reading-notes/class-10)
 11 | Audio, Video, Images | [open the summary](https://aya-alasmar.github.io/reading-notes/class-11)
-12 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
+12 | Chart.js, Canvas| [open the summary](https://aya-alasmar.github.io/reading-notes/class-12)
 13 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 14 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
 15 |   | [open the summary](https://aya-alasmar.github.io/reading-notes/)
